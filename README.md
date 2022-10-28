@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is AYOUOB CHAAOUI I am a web devloper, I have more than 2yrs working with
+My name is AYOUB CHAAOUI I am a web devloper, I have more than 2yrs working with
 ### My tech stack
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
