@@ -6,14 +6,14 @@ I am Ayoub Chaaoui from Morroco, Linux enthusiastic, always learning new things,
 
 - Know/Using
 
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,tailwindcss,expressjs,prisma,nestjs,c,cpp,&perline=4" height="120px">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,tailwindcss,expressjs,prisma,nestjs,c,cpp" height="40px">
 
 - Learning
 
-   <img src="https://skillicons.dev/icons?i=rust,go&perline=4" height="40px">
+   <img src="https://skillicons.dev/icons?i=rust,go" height="40px">
  
 ### Tools 🛠️
 
 - Know/Using
 
-   <img src="https://skillicons.dev/icons?i=linux,bash,docker,vim,figma,mysql,postman,vscode&perline=4" height="80px">
+   <img src="https://skillicons.dev/icons?i=linux,bash,docker,vim,figma,mysql,postman,vscode" height="40px">
