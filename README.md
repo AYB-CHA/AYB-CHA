@@ -16,4 +16,4 @@ I am Ayoub Chaaoui from Morroco, Linux enthusiastic, always learning new things,
 
 - Know/Using
 
-   <img src="https://skillicons.dev/icons?i=linux,bash,docker,vim,figma,mysql,postman,vscode" height="40px">
+   <img src="https://skillicons.dev/icons?i=linux,bash,docker,mysql,vim,figma,postman,vscode" height="40px">
